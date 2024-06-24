@@ -1,0 +1,11 @@
+{
+    "layers":[
+        {
+            "name":"nose",
+            "variants":[{
+                "asset":"nose.png"
+            }]
+        }
+    ],
+    "output_dir":""
+}

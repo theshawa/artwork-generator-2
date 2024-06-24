@@ -1,0 +1,10 @@
+[package]
+name = "artwork-generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+serde = { version = "1.0.203", features = ["derive"]}
+serde_derive = "1.0.203"
+serde_json = "1.0.117"
